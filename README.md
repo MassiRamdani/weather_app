@@ -22,7 +22,7 @@ Application permettant d'afficher la météo d'une ville pour les 5 prochains jo
 
 ### Demo
 ``Email: test@test.com ``
-``Pasword: 123456``
+``Password: 123456``
 ### Bonus
 - Ajout d'une fonctionnalité de recherche de la météo d'une ville.
 - Prise en charge des modes portrait et paysage.
