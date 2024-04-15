@@ -28,5 +28,6 @@ Application permettant d'afficher la météo d'une ville pour les 5 prochains jo
 - Prise en charge des modes portrait et paysage.
 - Personnalisation de l'icône de l'application.
 
-### Note 
+### Notes
 - **Signature de l'application non gérée** : L'application ne comporte pas de signature personnalisée ou de crédits d'auteur.
+- **ApiKey**: Dans le test, la clé API est incluse directement dans le code. Pour la production, l'utilisation de variables d'environnement est recommandée pour une gestion sécurisée des clés API.
